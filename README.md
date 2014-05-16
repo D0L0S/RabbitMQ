@@ -27,7 +27,7 @@ REQUIREMENTS
 INSTALLATION
 ------------------------------
 
-In order to install Rabbit Controller simply pull the main repository. Once this has been done ensure that all files have correct privilages. Lazy Sollution: chmod 775 *.*
+In order to install Rabbit Controller simply pull the main repository. Once this has been done ensure that all files have correct privilages.
 
 ------------------------------
 CONFIGURATION
