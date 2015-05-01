@@ -5,8 +5,7 @@ import java.io.IOException;
 import java.sql.Timestamp;
 import java.util.Date;
 
-public class LogWriter 
-{
+public class LogWriter {
     public static void main( String args ){	
     	try{ 
     		File file = new File("~/Rabbit/Rabbit.log");
